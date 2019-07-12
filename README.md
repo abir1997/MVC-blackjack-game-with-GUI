@@ -3,5 +3,5 @@ The rules are simple, the player places a bet and then receives a set of cards f
 
 ## What I learned
 Java Collection Frameworks.     
-Basic GUI building with Swing.    
-Importance of Model-View-Controller pattern for efficient code reuse and parallel development.
+GUI building with Swing.    
+Model-View-Controller
